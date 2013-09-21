@@ -424,7 +424,7 @@
   <project path="kernel/sony/u8500" name="percy-g2/android_kernel_sony_u8500" remote="github" revision="cm10.1" />
   <project path="vendor/sony" name="percy-g2/proprietary_vendor_Sony-u8500" remote="github" revision="cm-10.1" />
   <project path="device/sony/montblanc-common" name="XperiaST-Ericsson/android_device_sony_montblanc-common" remote="github" revision="cm-10.2" />
-  <project path="device/sony/nypon" name="XperiaST-Ericsson/android_device_sony_nypon" remote="github" revision="cm-10.2" />
+  <project path="device/sony/kumquat" name="Gava97/android_device_sony_kumquat" remote="github" revision="cm10.2" />
   <project path="hardware/semc/dash" name="CyanogenMod/android_hardware_sony_DASH" remote="github" revision="jellybean" />
 </manifest>
 
