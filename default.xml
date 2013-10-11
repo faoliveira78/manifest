@@ -425,7 +425,7 @@
   <!--Xperia U-->
   
   <project path="kernel/sony/u8500" name="munjeni/android_kernel_xperiago" remote="github" revision="jb-dev" />
-  <project path="vendor/sony/kumquat" name="Gava97/cm10.2_kumquat" remote="github" revision="master" />
-  <project path="device/sony/kuqmuat" name="percy-g2/android_device_sony_nypon-4.3" remote="github" revision="master" />
+  <project path="device/sony/kumquat" name="Gava97/cm10.2_kumquat" remote="github" revision="master" />
+  <project path="vendor/sony" name="Gava97/prorietary_vendor_sony" remote="github" revision="master" />
   <project path="hardware/semc" name="munjeni/aosp_4.3_hardware_semc" remote="github" revision="master" />
 </manifest>
