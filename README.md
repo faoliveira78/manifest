@@ -1,4 +1,3 @@
 manifest
-========
-
-manifest for cm10.2
+==========
+cm10.2 & other roms for XU
