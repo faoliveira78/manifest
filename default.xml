@@ -476,6 +476,6 @@
   
   <project path="kernel/sony/u8500" name="XperiaNovathor/android_kernel_xperiago" remote="github" revision="cm-11" />
   <project path="vendor/sony/kumquat" name="XperiaNovathor/proprietary_vendor_sony" remote="github" revision="master" />
-  <project path="device/sony/kumquat" name="XperiaNovathor/android_device_sony_kumquat" remote="github" revision="cm-11.0" />
+  <project path="device/sony/kumquat" name="OmniROM-kumquat/android_device_sony_kumquat" remote="github" revision="cm-11.0" />
   <project path="hardware/semc" name="XperiaNovathor/android_hardware_semc" remote="github" revision="master" />
 </manifest>
